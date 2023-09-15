@@ -13,6 +13,12 @@
   <p>Custom slider:</p>
   <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
 </div>
+<h1>List of fav games</h1>
+<ol>
+<li>Call Of Duty</li>
+<li>NHL 23</li>
+<li>Fortnite>
+</ol>
 </body>
 </html>
 
