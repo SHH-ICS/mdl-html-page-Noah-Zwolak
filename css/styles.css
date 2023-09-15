@@ -4,6 +4,9 @@
   background: #000;
   opacity: 0.001;
 }
+body {
+  background-color: #000;
+}
 p {
   color: aliceblue;
   font-weight: 200;
