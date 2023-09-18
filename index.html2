@@ -2,6 +2,8 @@
 <html>
 <head> 
 <link rel="stylesheet" href="./css/styles.css2">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-metro.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head> 
 <body>
